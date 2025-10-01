@@ -1,2 +1,2 @@
 # BMBP-Admin-Server
-BookMyBirthdayParty Admin
+BookMyBirthdayParty Server
